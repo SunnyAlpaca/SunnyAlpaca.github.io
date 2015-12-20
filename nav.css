@@ -1,0 +1,54 @@
+/* CSS Document */
+
+#nav{
+float:right;
+display:block;
+margin:65px 0 0 auto;
+height:106px;
+width:70%;
+text-align:center;
+background-image:url(images/nav_bkg_04.png);
+background-position:right;}
+
+#nav li{
+list-style:none;
+margin:0 0 0 25px;
+float:right;
+width:66px;
+height:106px;}
+
+#nav li a{
+text-decoration:none;
+display:block;
+text-align:center;
+margin-top:0;
+padding-top:0;
+height:106px;}
+
+#current{
+background-image:url(images/btn_nav_hover_03.png);}
+
+#nav #home{
+background-image:url(images/btn_nav_03.png);}
+	#nav #home:hover{
+	background-image:url(images/btn_nav_hover_03.png);}
+#nav #news{
+background-image:url(images/btn_nav_05.png)}
+	#nav #news:hover{
+	background-image:url(images/btn_nav_hover_05.png);}
+#nav #intro{
+background-image:url(images/btn_nav_07.png)}
+	#nav #intro:hover{
+	background-image:url(images/btn_nav_hover_07.png);}
+#nav #works{
+background-image:url(images/btn_nav_09.png);}
+	#nav #works:hover{
+	background-image:url(images/btn_nav_hover_09.png);}
+#nav #resources{
+background-image:url(images/btn_nav_11.png);}
+	#nav #resources:hover{
+	background-image:url(images/btn_nav_hover_11.png);}
+#nav #cooperate{
+	background-image:url(images/btn_nav_13.png);}
+	#nav #cooperate:hover{
+	background-image:url(images/btn_nav_hover_13.png);}

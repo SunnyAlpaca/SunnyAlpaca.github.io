@@ -1,0 +1,80 @@
+/* CSS Document */
+
+body{
+margin:0 0 0 0;
+width:100%;
+height:auto;
+background-color:#000000;
+background-image:url(images/bkg.png);}
+
+#logo{
+float:left;
+background-image:url(images/logo_frame.png);
+margin:0 0 0 38px;
+padding:0 0 0 0;
+width:207px;
+height:256px;
+background-repeat:no-repeat;
+overflow:hidden;}
+
+#sa_logo{
+margin:116px 0 0 38px;
+width:132px;
+height:79px;
+background-image:url(images/logo.png);
+background-repeat:no-repeat;}
+
+#header{
+margin-right:0;
+margin-top:0;
+background-image:url(images/header.png);
+float:left;
+width:80%;
+height:188px;}
+
+#header #chinese_logo{
+float:left;
+width:239px;
+height:106px;
+background-repeat:no-repeat;
+background-image:url(images/Chinese_logo.png);
+margin:67px 0 0 23px;}
+
+#content{
+float:left;
+height:auto;
+width:100%;
+margin:0 0 0px;}
+
+#footer{
+float:right;
+margin:40px 0 0 0;
+background-image:url(images/footer.png);
+background-position:right;
+background-repeat:no-repeat;
+height:315px;
+width:100%;
+text-align:center;}
+
+#footer_text{
+width:auto;
+margin:100px 0 0 110px;}
+
+.footer_text_part{
+float:left;
+width:20%;
+height:auto;
+margin-left:2.5%;}
+
+.footer_text_part h1{
+font-weight:normal;
+font-family:"Ó×Ô²","¿¬Ìå";
+font-size:22px;
+color:#686868;}
+
+.footer_text_part p{
+text-align:left;
+color:#686868;
+font-size:14px;
+letter-spacing:0.1em;}
+
